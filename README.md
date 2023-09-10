@@ -1,6 +1,3 @@
-# PHP Insecure Deserialization
-<img width="1005" alt="1" src="https://github.com/nowak0x01/php-insecure-deserialization/assets/96009982/0a6dd4bb-1716-4c41-ace3-3fd7b263191d"><br><br>
-
 # PHPGGC Auto Generate Gadget Chains Payloads
 This script automatically generates all payloads of gadgets available in PHPGGC https://github.com/ambionics/phpggc that lead to Remote code execution (RCE), using Out of Band techniques and phpinfo()<br><br>
 Note: If the vector where you think you have insecure deserialization is not detected by the script, it does not mean it is safe, the script is just an automation<br><br>
